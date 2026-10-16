@@ -60,15 +60,12 @@ public class Main {
 
     //Making a discount method probablu could have some improvement...
     public static double Discount (int age){
-        double discount;
         if(age >= 65) {
-            discount = 0.20;
-            return discount;
+            return 0.20;
         }
 
         if (age <= 17) {
-            discount = 0.10;
-            return discount;
+            return 0.10;
 
         }
         return 0.0;
