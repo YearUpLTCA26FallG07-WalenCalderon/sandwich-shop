@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 /*
 Create a Java application named sandwich-shop. This will be a point-of-sale (POS)
 application to calculate the cost of a sandwich.
